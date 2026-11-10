@@ -1,6 +1,6 @@
 Latihan Array JavaScript
 Identitas Siswa
-Nama: [Nama Lengkap]
+Nama: Mar'atussholiha dwi aprillia
 Kelas: XI RPL 2
 Mata Pelajaran: Pemrograman Web
 Deskripsi
@@ -26,8 +26,7 @@ Tuliskan secara singkat hal yang dipahami setelah menyelesaikan latihan.
 
 Hal yang saya pelajari:
 
-[Isi jawaban di sini]
+latihan array lanjutan
 
 Kesulitan yang saya temui:
 
-[Isi jawaban di sini]
